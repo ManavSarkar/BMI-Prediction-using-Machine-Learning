@@ -1,0 +1,12 @@
+git init
+git remote add origin https://github.com/ManavSarkar/Weight-Prediction-using-Machine-Learning.git
+git switch deep-feature-extraction
+
+git checkout deep-feature-extraction
+
+
+password
+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
+
+
+
