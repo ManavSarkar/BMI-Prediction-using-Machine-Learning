@@ -22,11 +22,6 @@ class Data_Processor(object):
     
     def test(self,img_path):
         img = cv2.imread(img_path)
-        # cv2.imshow('image',img)
-        # cv2.waitKey(0)
-        # print(img)
-        # img_path = '/kaggle/input/weightpred/datasets/Images/002274_M_35_175260_12337713.jpg'
-        # img = Image.open(img_path)
         figure = self._img_pro.get_figure(img)
         return figure
         
