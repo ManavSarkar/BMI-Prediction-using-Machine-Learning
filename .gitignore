@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+/detectron2
+/datasets/detectron2
+MIN_RESNET101_BMI_Cache_test.pkl
+MIN_RESNET101_BMI_Cache.pkl
+model_epoch_50.ckpt
+/datasets/Images
+/detectron2
